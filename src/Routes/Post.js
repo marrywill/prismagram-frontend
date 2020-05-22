@@ -1,1 +1,1 @@
-export default () => "Posts"
+export default () => 'Post'
